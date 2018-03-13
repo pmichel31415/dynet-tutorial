@@ -1,6 +1,8 @@
 # Dynet tutorials
 
-[Dynet](https://github.com/clab/dynet) is an automatic differentiation toolkit used mainly to train neural networks. This repository contains a few tutorials in the form of notebooks to get familiar with dynet's API and workflow through simple and (hopefully) fun examples not necesarily related to machine learning
+[Dynet](https://github.com/clab/dynet) is an automatic differentiation toolkit used mainly to train neural networks. 
+
+This repository contains a few tutorials in the form of jupyter notebooks to get familiar with dynet's API and workflow through simple and (hopefully) fun examples not necessarily related to machine learning.
 
 ## Notebooks
 
@@ -17,7 +19,6 @@ You should be able to install the latest version of dynet by running
 ```bash
 pip install git+https://github.com/clab/dynet#egg=dynet
 ```
-
 on unix systems. Alternatively you might want to perform a manual install (see the [related documentation](http://dynet.readthedocs.io/en/latest/python.html#manual-installation)).
 
 ## Documentation
