@@ -9,6 +9,7 @@ This repository contains a few tutorials in the form of jupyter notebooks to get
 1. [Approximating `sqrt(2)` with gradient descent](notebooks/1-sqrt_2.ipynb): basic workflow and objects
 2. [Visualizing the Mandelbrot fractal](notebooks/2-mandebrot.ipynb): example of simple operations
 3. [Visualizing the Barnsley fern fractal](notebooks/3-Barnley_fern.ipynb): affine transforms, gumbel trick
+4. [Variational image denoising](notebooks/4-variational_image_denoising.ipynb): conv2d, optimization
 
 This list will be updated as I add notebooks
 
